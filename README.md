@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Canpolat Alemdar Özden</h1>
 <h3 align="center">A passionate frontend/backend developer from Türkiye</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=canther3&label=Profile%20views&color=0e75b6&style=flat" alt="canther3" /> </p>
+
 - 🔭 I’m currently working **on sql and c#**
 
 - 🌱 I’m currently learning **sql and c#**
@@ -20,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canther3&show_icons=true&locale=en&layout=compact" alt="canther3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canther3&show_icons=true&locale=en" alt="canther3" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canther3&" alt="canther3" /></p>
