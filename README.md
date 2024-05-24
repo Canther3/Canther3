@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Canpolat Alemdar Özden</h1>
 <h3 align="center">A passionate frontend/backend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=canther3&label=Profile%20views&color=0e75b6&style=flat" alt="canther3" /> </p>
-
 - 🔭 I’m currently working **on sql and c#**
 
 - 🌱 I’m currently learning **sql and c#**
