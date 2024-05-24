@@ -21,9 +21,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canther3&show_icons=true&locale=en" alt="canther3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canther3&show_icons=true&locale=en" alt="canther3" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canther3&" alt="canther3" /></p><p></p>
 <p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canther3&" alt="canther3" /></p><p></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canther3&show_icons=true&locale=en&layout=compact" alt="canther3" /></p>
