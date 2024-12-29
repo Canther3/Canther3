@@ -5,7 +5,7 @@ If you have any questions or feedback about the project, feel free to reach out 
 
 - 📸 **Instagram**: [@canthere_pg](https://www.instagram.com/canthere_pg/)  
 - 🐦 **Twitter**: [@canthere](https://twitter.com/canthere35)  
-- ✉️ **Email**: [E-Mail](mailto:canpolatalemdarozden@gmail.com)  
+- ✉️ **Email**: [canpolatalemdarozden@gmail.com](mailto:canpolatalemdarozden@gmail.com)  
 - 💼 **LinkedIn**: [Canpolat Alemdar ÖZDEN](https://www.linkedin.com/in/canpolato/)  
 
 ## TR
@@ -15,6 +15,6 @@ Projeyle ilgili herhangi bir sorunuz ya da geri bildiriminiz olursa, aşağıdak
 
 - 📸 **Instagram**: [@canthere_pg](https://www.instagram.com/canthere_pg/)  
 - 🐦 **Twitter**: [@canthere](https://twitter.com/canthere35)  
-- ✉️ **E-posta**: [E-Mail](mailto:canpolatalemdarozden@gmail.com)  
+- ✉️ **E-posta**: [canpolatalemdarozden@gmail.com](mailto:canpolatalemdarozden@gmail.com)  
 - 💼 **LinkedIn**: [Canpolat Alemdar ÖZDEN ](https://www.linkedin.com/in/canpolato/)  
 
