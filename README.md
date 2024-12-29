@@ -1,16 +1,19 @@
-## Hi there 👋
+## 📞 Contact and Social Media
 
-<!--
-**Canther3/Canther3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you have any questions or feedback about the project, feel free to reach out through the following channels:
 
-Here are some ideas to get you started:
+- 📸 **Instagram**: [@canthere_pg](https://www.instagram.com/canthere_pg/)  
+- 🐦 **Twitter**: [@canthere](https://twitter.com/canthere35)  
+- ✉️ **Email**: [e-mail](mailto:canpolatalemdarozden@gmail.com)  
+- 💼 **LinkedIn**: [Canpolat Alemdar ÖZDEN](https://www.linkedin.com/in/canpolato/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## TR
+## 📞 İletişim ve Sosyal Medya
+
+Projeyle ilgili herhangi bir sorunuz ya da geri bildiriminiz olursa, aşağıdaki iletişim kanallarından bana ulaşabilirsiniz:
+
+- 📸 **Instagram**: [@canthere_pg](https://www.instagram.com/canthere_pg/)  
+- 🐦 **Twitter**: [@canthere](https://twitter.com/canthere35)  
+- ✉️ **E-posta**: [e-mail](mailto:canpolatalemdarozden@gmail.com)  
+- 💼 **LinkedIn**: [Canpolat Alemdar ÖZDEN ](https://www.linkedin.com/in/canpolato/)  
+
