@@ -1,3 +1,4 @@
+## EN
 ## 📞 Contact and Social Media
 
 If you have any questions or feedback about the project, feel free to reach out through the following channels:
@@ -7,7 +8,7 @@ If you have any questions or feedback about the project, feel free to reach out 
 - ✉️ **Email**: [e-mail](mailto:canpolatalemdarozden@gmail.com)  
 - 💼 **LinkedIn**: [Canpolat Alemdar ÖZDEN](https://www.linkedin.com/in/canpolato/)  
 
-  ## TR
+## TR
 ## 📞 İletişim ve Sosyal Medya
 
 Projeyle ilgili herhangi bir sorunuz ya da geri bildiriminiz olursa, aşağıdaki iletişim kanallarından bana ulaşabilirsiniz:
